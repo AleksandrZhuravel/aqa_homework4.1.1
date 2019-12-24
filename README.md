@@ -1,10 +1,3 @@
-Статус проведенных тестов:
-[![Build status](https://ci.appveyor.com/api/projects/status/ydr1lmy45p7iou51?svg=true)](https://ci.appveyor.com/project/AleksandrZhuravel/aqa-homework4-1-1)
-
-
-
-
-
 
 ### Домашнее задание №4.1.1 по теме «Репортинг»
 #### Заказ доставки карты (изменение даты)
